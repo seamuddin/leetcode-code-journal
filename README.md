@@ -28,23 +28,39 @@ A standardized naming format ensures scalability as the repository grows.
 
 ---
 
-## 🏗️ Repository Structure
+
+<details>
+<summary><b>Repository Structure</b></summary>
 
 This repository organizes problems **by programming language**, not by problem number.  
 Each language has its own folder:
-/
-├── cpp
-│ ├── 0001-two-sum.cpp
-│ ├── 0002-add-two-numbers.cpp
-│ └── README.md
-├── python/
-│ ├── 0001-two-sum.py
-│ ├── 0002-add-two-numbers.py
-│ └── README.md
-├── javascript/
-│ ├── 0001-two-sum.js
-│ └── README.md
+/ 
+
+├── cpp/ 
+
+│ ├── 0001-two-sum.cpp 
+
+│ ├── 0002-add-two-numbers.cpp 
+
+│ └── README.md 
+
+├── python/ 
+
+│ ├── 0001-two-sum.py 
+
+│ ├── 0002-add-two-numbers.py 
+
+│ └── README.md 
+
+├── javascript/ 
+
+│ ├── 0001-two-sum.js 
+
+│ └── README.md 
+
 └── README.md <-- (you are reading this)
+
+</details>
 
 
 
