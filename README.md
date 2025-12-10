@@ -33,7 +33,7 @@ A standardized naming format ensures scalability as the repository grows.
 This repository organizes problems **by programming language**, not by problem number.  
 Each language has its own folder:
 /
-├── cpp/
+├── cpp
 │ ├── 0001-two-sum.cpp
 │ ├── 0002-add-two-numbers.cpp
 │ └── README.md
